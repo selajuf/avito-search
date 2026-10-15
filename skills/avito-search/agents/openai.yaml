@@ -1,0 +1,4 @@
+interface:
+  display_name: "Avito Search"
+  short_description: "Find clothes on Avito and remember your choices"
+  default_prompt: "Use $avito-search to find clothes matching my request and build a local shortlist."
